@@ -34,5 +34,8 @@ address-10091
 ```
 node-36657
 ```
+# Cosmos Projelerinde Port Numaraları
+
+> 26656,26657,26658,26660,9090,6060
 
 İşlemler bu kadardı, kolay gelsin.
