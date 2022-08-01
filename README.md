@@ -40,4 +40,4 @@ node-36657
 
 
 
-#İşlemler bu kadardı, kolay gelsin.
+# İşlemler bu kadardı, kolay gelsin.
