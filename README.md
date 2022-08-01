@@ -38,4 +38,6 @@ node-36657
 
 > 26656,26657,26658,26660,9090,6060
 
-İşlemler bu kadardı, kolay gelsin.
+
+
+#İşlemler bu kadardı, kolay gelsin.
